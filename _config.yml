@@ -1,0 +1,18 @@
+title: CondoWeb.com
+baseurl: /
+  
+# Social Media
+google_analytics_tracking_id:
+
+markdown: redcarpet
+# markdown: rdiscount
+# rdiscount:
+redcarpet:
+  extensions:
+    - autolink
+    - footnotes
+    - smart
+highlighter: pygments # default python pygments have been replaced by pygments.rb
+  
+# For Jekyll Plugins, per http://jekyllrb.com/docs/plugins/
+# gems: [ image_tag, image_caption_tag ]  
