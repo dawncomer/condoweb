@@ -1,6 +1,7 @@
 ---
 ---
-# CondoWeb.com
+CondoWeb.com
+===
 
 >If you have a US startup called X and you don't have x.com, you should probably change your name.<br/>&nbsp;<br/> ~[Paul Graham](http://paulgraham.com/name.html), Founder, Y Combinator
 
