@@ -3,7 +3,7 @@
 CondoWeb.com
 ===
 
->If you have a US startup called X and you don't have x.com, you should probably change your name.<br/>&nbsp;<br/> ~[Paul Graham](http://paulgraham.com/name.html), Co-Founder, Y Combinator
+>If you have a US startup called X and you don't have x.com, you should probably change your name... 100% of the top 20 YC companies by valuation have the .com of their name. 94% of the top 50 do.<br/>&nbsp;<br/> ~[Paul Graham](http://paulgraham.com/name.html), Co-Founder, Y Combinator
 
 This domain is for sale.
 
