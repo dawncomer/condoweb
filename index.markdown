@@ -3,19 +3,16 @@ layout: default
 ---
 # CondoWeb.com
 
-[Paul Graham](http://paulgraham.com/name.html), Co-Founder of [Y Combinator](http://ycombinator.com)
---
 
 <hr>
 
->"If you have a US startup called X and you don't have x.com, you should probably change your name. <br> 100% of the top 20 YC companies by valuation have the .com of their name. 94% of the top 50 do."
-<strong>Paul Graham</strong>
+>If you have a US startup called X and you don't have x.com, you should probably change your name.<br/><br/>~[Paul Graham](http://paulgraham.com/name.html), Co-Founder of [Y Combinator](http://ycombinator.com)
 
-###This domain is for sale.###
+### This domain is for sale.
 
-<strong>Price:</strong> One hundred twenty-five thousand United States Dollars (US$125,000.00) or best offer.
+Price: $ 125,000.00 (USD) or best offer.
 
-####CondoWeb.com Inquiries:####
+### CondoWeb.com Inquiries:
 <hr>
 
 <center>
