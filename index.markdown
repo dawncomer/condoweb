@@ -6,11 +6,11 @@ layout: default
 
 <hr>
 
->If you have a US startup called X and you don't have x.com, you should probably change your name.<br/><br/>~[Paul Graham](http://paulgraham.com/name.html), Co-Founder of [Y Combinator](http://ycombinator.com)
+"If you have a US startup called X and you don't have x.com, you should probably change your name."<br/><br/>~[Paul Graham](http://paulgraham.com/name.html), Co-Founder of [Y Combinator](http://ycombinator.com)
 
 ### This domain is for sale.
 
->Price: $ 125,000.00 (USD) or best offer.
+Price: $ 125,000.00 (USD) or best offer.
 
 ### CondoWeb.com Inquiries:
 <hr>
