@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-CondoWeb.com
-===
+# CondoWeb.com
+
 [Paul Graham](http://paulgraham.com/name.html), Co-Founder of [Y Combinator](http://ycombinator.com)
 --
 
