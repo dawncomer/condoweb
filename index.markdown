@@ -10,7 +10,7 @@ layout: default
 
 ### This domain is for sale.
 
-Price: $ 125,000.00 (USD) or best offer.
+>Price: $ 125,000.00 (USD) or best offer.
 
 ### CondoWeb.com Inquiries:
 <hr>
