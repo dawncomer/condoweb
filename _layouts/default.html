@@ -30,7 +30,7 @@
     font-family: Helvetica;
     font-weight: bold;
     font-size: 3em;
-    letter-spacing: 3px;
+
   }
 
 
@@ -78,11 +78,22 @@
   }
 
   @media (max-width: 600px) {
+    h1 {
+      font-size: 2em;
+    }
     .webform {
       width: 100%;
   }
 }
 
+@media (max-width: 400px) {
+  h1 {
+    font-size: 1.9em;
+  }
+  .webform {
+    width: 100%;
+}
+}
   #leftlist {
 			float: center;
       margin-right: 70px;
@@ -94,6 +105,9 @@
       opacity: .53;
 	}
 
+  a {
+      color: #cc0000;
+  }
 
   </style>
 </head>
