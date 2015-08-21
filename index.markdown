@@ -1,20 +1,19 @@
 ---
 layout: default
 ---
-# CondoWeb.com
-
+CondoWeb.com
+===
 
 <hr>
 
-"If you have a US startup called X and you don't have x.com, you should probably change your name."<br/><br/>~[Paul Graham](http://paulgraham.com/name.html), Co-Founder of [Y Combinator](http://ycombinator.com)
+<p>&ldquo;If you have a US startup called X and you don&rsquo;t have x.com, you should probably change your name.&rdquo;<br/><br/>~<a href="http://paulgraham.com/name.html">Paul Graham</a>, Co-Founder of <a href="http://ycombinator.com">Y Combinator</a></p>
 
-### This domain is for sale.
+##This domain is for sale.##
 
-Price: $ 125,000.00 (USD) or best offer.
+<strong>Price:</strong> $ 125,000.00 (USD) or best offer.
 
-### CondoWeb.com Inquiries:
+###CondoWeb.com Inquiries:###
+
 <hr>
 
-<center>
-<iframe height="697" allowTransparency="true"frameborder="0" scrolling="no" style="width:50%;border:none"  src="https://wisdomgroup.wufoo.com/embed/s1kxy5mk1q4e7g8/"><a href="https://wisdomgroup.wufoo.com/forms/s1kxy5mk1q4e7g8/">Fill out my Wufoo form!</a></iframe>
-</center>
+<div class="iframe-wrap"><iframe height="697" allowTransparency="true"frameborder="2" scrolling="no" class="webform"  src="https://wisdomgroup.wufoo.com/embed/s1kxy5mk1q4e7g8/"><a href="https://wisdomgroup.wufoo.com/forms/s1kxy5mk1q4e7g8/">Fill out my Wufoo form!</a></iframe></div>
