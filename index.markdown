@@ -10,9 +10,8 @@ CondoWeb.com
 
 ##This domain is for sale.##
 
-<strong>Price:</strong> $ 125,000.00 (USD) or best offer.
-<br/>
-Bonus: Sale includes the [@CondoWeb](http://twitter.com/condoweb) handle  on Twitter.
+<p><strong>Price:</strong> $ 125,000.00 (USD) or best offer.</p>
+<p>Bonus: Sale includes the <a href="http://twitter.com/condoweb">@CondoWeb</a> handle on Twitter.</p>
 
 ###CondoWeb.com Inquiries:###
 
