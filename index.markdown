@@ -12,7 +12,7 @@ CondoWeb.com
 
 <p><strong>Price:</strong> $ 125,000.00 (USD) or best offer.</p>
 <p>Bonus: Sale includes the <a href="http://twitter.com/condoweb">@CondoWeb</a> handle on Twitter.</p>
-<p>Seller proposes to handle the transaction through [Escrow.com](https://escrow.com) with escrow fees to be paid by seller.</p>
+<p>Seller proposes to handle the transaction through <a href="https://escrow.com">Escrow.com</a> with escrow fees to be paid by seller.</p>
 
 ###CondoWeb.com Inquiries:###
 
