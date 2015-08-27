@@ -6,7 +6,7 @@ CondoWeb.com
 
 <hr>
 
-<p>&ldquo;If you have a US startup called X and you don&rsquo;t have x.com, you should probably change your name.&rdquo;<br/><br/>~<a href="http://paulgraham.com/name.html">Paul Graham</a>, Co-Founder of <a href="http://ycombinator.com">Y Combinator</a></p>
+<p>&ldquo;If you have a US startup called X and you don&rsquo;t have x.com, you should probably change your name... The problem with not having the .com of your name is that it signals weakness.&rdquo;<br/><br/>~<a href="http://paulgraham.com/name.html">Paul Graham</a>, Co-Founder of <a href="http://ycombinator.com">Y Combinator</a></p>
 
 ##This domain is for sale.##
 
