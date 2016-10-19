@@ -12,7 +12,6 @@ redcarpet:
     - autolink
     - footnotes
     - smart
-highlighter: pygments # default python pygments have been replaced by pygments.rb
   
 # For Jekyll Plugins, per http://jekyllrb.com/docs/plugins/
 # gems: [ image_tag, image_caption_tag ]  

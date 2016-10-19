@@ -13,4 +13,4 @@ CondoWeb.com
 
 ###CondoWeb.com Inquiries:###
 
-<div class="iframe-wrap"><iframe height="697" allowTransparency="true"frameborder="2" scrolling="no" class="webform"  src="https://wisdomgroup.wufoo.com/embed/s1kxy5mk1q4e7g8/"><a href="https://wisdomgroup.wufoo.com/forms/s1kxy5mk1q4e7g8/">Fill out my Wufoo form!</a></iframe></div>
+<div class="iframe-wrap"><iframe height="697" allowTransparency="true"frameborder="2" scrolling="no" class="webform"  src="https://wisdomgroup.wufoo.com/embed/s1kxy5mk1q4e7g8/"><a href="https://wisdomgroup.wufoo.com/forms/s1kxy5mk1q4e7g8/">Thanks for asking about CondoWeb.com.</a></iframe></div>
