@@ -5,13 +5,5 @@ baseurl: /
 google_analytics_tracking_id:
 
 markdown: kramdown
-# markdown: rdiscount
-# rdiscount:
-redcarpet:
-  extensions:
-    - autolink
-    - footnotes
-    - smart
   
-# For Jekyll Plugins, per http://jekyllrb.com/docs/plugins/
-# gems: [ image_tag, image_caption_tag ]  
+highlighter: rouge
