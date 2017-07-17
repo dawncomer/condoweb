@@ -8,7 +8,7 @@ CondoWeb.com
 
 ## This domain is for sale.
 
-<p><strong>Price:</strong> $ 25,000.00 (USD) or best offer.</p>
+<p><strong>Price:</strong> $ 5,000.00 (USD) or best offer.</p>
 <p>Bonus: Sale includes the <a href="http://twitter.com/condoweb">@CondoWeb</a> handle on Twitter. Seller proposes to handle the transaction through <a href="https://escrow.com">Escrow.com</a> with escrow fees to be paid by seller.</p>
 
 <p>(Separately, <a href="http://rocksolar.com">RockSolar.com</a> is also for sale.)</p>
